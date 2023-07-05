@@ -1,0 +1,7 @@
+-> open source : In programming, the term "open source" refers to a type of software whose source code is freely available to the public. Open source software allows anyone to view, modify, and distribute the source code, often under licenses that ensure the software remains open and accessible to others.
+
+Open source promotes collaboration, transparency, and community-driven development. It enables developers to study how a program works, make improvements, fix bugs, and contribute those changes back to the project. This approach encourages innovation, fosters a sense of shared ownership, and often leads to high-quality software.
+
+Open source projects typically have an online repository where developers can access the source code, contribute changes, report issues, and collaborate with others. Popular examples of open source projects include the Linux operating system, the Apache web server, the Python programming language, and the Git version control system.
+
+Open source software has gained widespread adoption in various domains, including web development, databases, artificial intelligence, operating systems, and mobile applications. Many developers and organizations appreciate the flexibility, security, and cost-effectiveness that open source solutions offer.
