@@ -26,3 +26,11 @@ Nodejs vs Browser
 Both the browser and Node.js use JavaScript as their programming language. Building apps that run in the browser is entirely different than building a Node.js application. Even though it’s always JavaScript, some key differences make the experience radically different.
 
 https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser/
+
+
+
+Running Node.js Code
+
+The usual way to run a Node.js program is to run the globally available node command (once you install Node.js) and pass the name of the file you want to execute.
+
+https://nodejs.dev/en/learn/run-nodejs-scripts-from-the-command-line/
